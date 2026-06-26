@@ -1,0 +1,12 @@
+{
+    "expenses": [
+        {
+            "id": 1,
+            "name": "Cafe",
+            "amount": "$80.00",
+            "category": "Food",
+            "datetime": "2026-06-26",
+            "date": "No Update"
+        }
+    ]
+}
